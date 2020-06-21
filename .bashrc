@@ -1,6 +1,6 @@
-# ~/.bashrc: executed by bash(1) for non-login shells.
-# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
-# for examples
+# Mac like bash shell for Linux Terminal
+# By Manish Singh Parmar (C) [ManishOnLinux@gmail.com]
+
 
 # If not running interactively, don't do anything
 case $- in
